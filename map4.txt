@@ -1,0 +1,8 @@
+10 7
+#A####O###
+#DDDD LDD#
+#DDDDLDrD#
+#DDDDDDPD#
+#aDDD-orD#
+##DDDD####
+##########

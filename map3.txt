@@ -1,0 +1,8 @@
+9 7
+#########
+#    G-P#
+#   CDCD#
+#  MDMDD#
+# BDDBDD#
+#GDDDDDD#
+#########
